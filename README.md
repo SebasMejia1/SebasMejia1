@@ -1,15 +1,81 @@
-<h1 align="center">Hola 👋, soy Sebastian</h1>
-<h3 align="center">Técnico en desarrollo de software fullStack con enfoque en frontEnd</h3>
+# Hola, soy Sebastian Mejia
 
-## Sobre mi
+**Desarrollador de Datos y Automatización · Python · Backend**
 
-- Soy un joven de 21 años con ganas de adquirir apoyar empresas con mis conocimientos en el campo de la programación y la tecnología, actualmente me desenvuelvo en JavaScript y Php, con conocimentos básicos en React y en constante aprendizaje.
-- Realicé mis practicas en una empresa de Medellín desarrollando páginas web con Jquery y Bootstrap optimizando procesos internos durante 6 meses.
+[English version](#english) · [LinkedIn](https://www.linkedin.com/in/sebastian-mejia-sanchez-developer)
 
-<br>
+Conecto datos, automatizo procesos y desarrollo herramientas que apoyan la operación de los equipos. Actualmente trabajo como Desarrollador de Automatizaciones y Backend en **DataFinanzas**, construyendo soluciones para el sector asegurador.
 
-<h3 align="left">Lenguajes y herramientas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-<br>
-<h3 align="left">En proceso de aprendizaje:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### En qué trabajo
+
+- **Automatización:** desarrollo de flujos con Python, Selenium y Playwright para navegar plataformas, descargar documentos y clasificar archivos.
+- **Orquestación:** diseño de DAGs y tareas en Apache Airflow y configuración de entornos de ejecución con Docker.
+- **Datos y backend:** extracción desde APIs, HTML y PDF, limpieza y normalización de información y modelado de datos con Django y PostgreSQL.
+- **Herramientas internas:** interfaces con JavaScript y Bootstrap para consultar información y visualizar resultados operativos.
+- **Desarrollo asistido por IA:** uso de herramientas de IA agéntica para generar y revisar código, validando las propuestas antes de integrarlas.
+
+### Tecnologías
+
+| Área | Herramientas |
+| --- | --- |
+| Automatización y orquestación | Python, Apache Airflow, Selenium, Playwright |
+| Backend y datos | Django, PostgreSQL, Node.js, Express, TypeScript, MySQL |
+| Desarrollo web | JavaScript, PHP, jQuery, Bootstrap, CSS3 |
+| Entornos y control de versiones | Docker, Git, GitHub, Linux |
+
+### Trayectoria
+
+- **DataFinanzas · Febrero de 2025 – actualidad:** automatización, procesamiento de datos y desarrollo backend.
+- **Concept BPO · Agosto de 2022 – febrero de 2023:** prácticas de desarrollo web con PHP, jQuery y JavaScript.
+- **CESDE · 2021 – 2023:** Técnico en Desarrollo de Software.
+- **BeTek · 2024:** entrenamiento en Desarrollo Backend con TypeScript, Node.js, Express y MySQL.
+
+### Trabajemos juntos
+
+Para **equipos de desarrollo**, aporto experiencia en automatización, integración de datos y backend. Para **proyectos freelance**, puedo ayudarte a revisar procesos manuales y desarrollar automatizaciones o herramientas internas según tus necesidades.
+
+Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/sebastian-mejia-sanchez-developer).
+
+Los repositorios públicos muestran parte de mi recorrido y aprendizaje. La experiencia empresarial descrita aquí no implica que su código esté disponible en estos repositorios.
+
+---
+
+## English
+
+# Hi, I'm Sebastian Mejia
+
+**Data & Automation Developer · Python · Backend**
+
+I connect data, automate processes, and build tools that support business operations. I currently work as an **Automation & Backend Developer at DataFinanzas**, developing solutions for the insurance sector.
+
+### What I work on
+
+- **Automation:** Python, Selenium, and Playwright workflows to navigate platforms, download documents, and classify files.
+- **Orchestration:** Apache Airflow DAGs and tasks, with Docker-based execution environments.
+- **Data and backend:** extraction from APIs, HTML, and PDF documents; data cleaning and normalization; data modeling with Django and PostgreSQL.
+- **Internal tools:** JavaScript and Bootstrap interfaces to query information and display operational results.
+- **AI-assisted development:** agentic AI tools for code generation and review, with validation before integration.
+
+### Technologies
+
+| Area | Tools |
+| --- | --- |
+| Automation & orchestration | Python, Apache Airflow, Selenium, Playwright |
+| Backend & data | Django, PostgreSQL, Node.js, Express, TypeScript, MySQL |
+| Web development | JavaScript, PHP, jQuery, Bootstrap, CSS3 |
+| Environments & version control | Docker, Git, GitHub, Linux |
+
+### Background
+
+- **DataFinanzas · February 2025 – present:** automation, data processing, and backend development.
+- **Concept BPO · August 2022 – February 2023:** web development internship using PHP, jQuery, and JavaScript.
+- **CESDE · 2021 – 2023:** Technical Program in Software Development.
+- **BeTek · 2024:** Backend Development Training with TypeScript, Node.js, Express, and MySQL.
+
+### Let's work together
+
+For **development teams**, I bring experience in automation, data integration, and backend development. For **freelance projects**, I can help review manual processes and develop automations or internal tools around your needs.
+
+Contact me on [LinkedIn](https://www.linkedin.com/in/sebastian-mejia-sanchez-developer).
+
+My public repositories reflect part of my development and learning journey. The professional experience described here does not imply that its source code is available in these repositories.
